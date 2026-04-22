@@ -10,6 +10,10 @@ Nesse repositório apresento um projeto de elaboração de um painel de Controla
 
 Também foram aplicados conceitos de **Data Storytelling**, criando medidas para títulos dinâmicos e melhorias de UX para identificar com mais facilidade reusltados positivos ou negativos.
 
+## Dashboard de Controladoria
+
+![powerbi](storytelling/powerbi.png)
+
 ## Mapeamento de Requisitos
 
 Antes da construção do relatório, foi realizado um [Mapeamento de Requisitos](https://www.notion.so/Metodologia-ESI-myCoffee-2aee6f6c37ef801c9b6cde0d02b1ce9f?source=copy_link) utilizando a Metodolodia ESI no Notion, que aborda conceitos de Entendimento, Solução e Implantação de um projeto de BI.
